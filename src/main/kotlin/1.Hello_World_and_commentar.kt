@@ -2,7 +2,8 @@ fun main(){
     println("Hello World!")
 }
 
-// Comment
+// Single Line Comment
 /*
-* Multiple Comment
+* Multi Line Comment
+* Hello World
 * */
