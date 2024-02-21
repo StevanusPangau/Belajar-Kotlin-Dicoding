@@ -14,4 +14,35 @@ fun main(){
     for (char in text3){
         print("$char ")
     }
+    println()
+
+//    Escape String
+    val statement = "Kotlin is \"Awesome!\""
+    println(statement)
+    /*
+    * \t: menambah tab ke dalam teks.
+    * \n: membuat baris baru di dalam teks.
+    * \’: menambah karakter single quote kedalam teks.
+    * \”: menambah karakter double quote kedalam teks.
+    * \\: menambah karakter backslash kedalam teks.
+    * */
+
+//    Unicode String
+    val name = "Unicode test: \u00A9"
+    println(name)
+    /*
+    * \u00A9 merupakan representasi dari simbol copyright.
+    * */
+
+//    Raw String
+    val line = """
+        Line 1
+        Line 2
+        Line 3
+        Line 4
+    """.trimIndent()
+    println(line)
+    /*
+    * trimIndent() digunakan untuk menghapus leading whitespace dari setiap baris dalam string.
+    * */
 }
