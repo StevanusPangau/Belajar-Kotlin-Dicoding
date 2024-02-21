@@ -31,6 +31,6 @@ fun main(){
         println("Office is open")
     }
     /*
-    * Output : Office is open : false
+    * Output : Office is open : false.
     * */
 }
