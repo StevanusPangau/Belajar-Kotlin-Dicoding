@@ -1,3 +1,5 @@
+package KotlinFundamental
+
 fun main(){
 //    Array
     val array = arrayOf(1,2,3,4,5)

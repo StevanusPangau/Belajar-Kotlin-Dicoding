@@ -1,3 +1,5 @@
+package KotlinFundamental
+
 fun main(){
 //    contoh deklarasi String
     var text = "Kotlin"

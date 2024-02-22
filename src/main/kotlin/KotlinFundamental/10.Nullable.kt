@@ -1,3 +1,5 @@
+package KotlinFundamental
+
 fun main() {
 //    Contoh error ketika nullable
 //    val name: String = null // Error

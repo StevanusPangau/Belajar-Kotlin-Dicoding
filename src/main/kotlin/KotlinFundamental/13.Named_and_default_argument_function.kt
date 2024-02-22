@@ -1,3 +1,5 @@
+package KotlinFundamental
+
 fun main(){
 //    Contoh memangil fungsi tanpa menghafal letak parameternya
     val fullName = getFullName(firstName = "Stevanus", middleName = "Evan", lastName = "Pangau")

@@ -1,3 +1,5 @@
+package KotlinFundamental
+
 fun main(){
 //    Conjunction atau AND
     val officeOpen = 7

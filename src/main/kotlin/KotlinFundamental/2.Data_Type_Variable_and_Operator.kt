@@ -1,3 +1,5 @@
+package KotlinFundamental
+
 fun main(){
 //    Varibale dalam kotlin adalah tempat untuk menyimpan data yang bisa diubah nilainya
 //    1. var, var adalah variable yang bisa diubah nilainya

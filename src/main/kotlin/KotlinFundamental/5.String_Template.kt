@@ -1,3 +1,5 @@
+package KotlinFundamental
+
 fun main(){
 //    contoh pengunaan string template
     val name = "Kotlin"

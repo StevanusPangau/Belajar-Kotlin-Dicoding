@@ -1,3 +1,5 @@
+package KotlinFundamental
+
 fun main(){
 //    int (32 bit)
     val intNumber = 100

@@ -1,3 +1,5 @@
+package KotlinFundamental
+
 fun main(){
 //    Function adalah blok kode yang dapat dipanggil berulang kali
 //    Function dapat menerima parameter dan mengembalikan nilai

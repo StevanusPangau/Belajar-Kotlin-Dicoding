@@ -1,3 +1,5 @@
+package KotlinFundamental
+
 fun main(){
 //    contoh penggunaan if expression
     val openHours = 7
